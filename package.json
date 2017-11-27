@@ -5,9 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
+    "mongodb": "^2.2.33",
     "password-generator": "^2.2.0"
   },
   "scripts": {
-  "start": "node index.js"
- }
+    "start": "node index.js"
+  }
 }
